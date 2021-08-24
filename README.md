@@ -1,4 +1,4 @@
 # fid
-Useful information about project
+For fid projects
 
-This repository was for learning how to make a README.md file and how to make edits to the repository project. 
+This repository is for storing and creating projects for fid. 
