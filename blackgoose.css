@@ -44,6 +44,9 @@ footer {
   text-align: center;
   padding-top: 1em;
 }
+p {
+    background-color: white; 
+}
 footer img {
   width: 40px;
   height: 40px;
