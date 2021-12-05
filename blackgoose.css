@@ -1,0 +1,52 @@
+body {
+    background-image: url(images/blackgoose.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-position: center;
+    background-color: #faf2e4;
+    margin: 0 15%;
+    font-family: sans-serif;
+  }
+  a {
+    text-decoration: none;
+  }
+  a:link {
+    color: orange;
+  }
+  a:visited: {
+    color: red;
+  }
+  a:hover {
+    color: #c700f2;
+    background-color: orange;
+  }
+  a:active {
+    background-color: green;
+    color: #ff00ff;
+  }
+  #about p {
+    font-style: italic;
+    background-color: white;
+  }
+  h1{
+    text-align: center;
+    font-family:'Bebas Neue',cursive;
+    text-transform: uppercase;
+    border-bottom: 1px solid #57b1dc;
+    margin-top: 30px;
+  }
+  h2 {
+    color: #d1633c;
+    font-size: 1.3em;
+  }
+footer {
+  border-top: 1px solid #57b1dc;
+  text-align: center;
+  padding-top: 1em;
+}
+footer img {
+  width: 40px;
+  height: 40px;
+  margin-left: .5em;
+  margin-right: .5em;
+}
